@@ -1,0 +1,10 @@
+name: Algorithm2 -> config: c5.txt
+name:  Algorithm1 ->   config:                                 c1.txt
+name:  Algorithm1 ->   config:     c1.txt
+name:   Algorithm2 ->    config: c5.txt
+name:  Algorithm1 ->   config:     c3.txt
+name:   Algorithm2 ->    config: c5.txt
+name:   Algorithm2 ->    config: c5.txt
+name:   Algorithm1 ->    config: c4.txt
+name:   Algorithm2 ->    config: c5.txt
+name:   Algorithm1 ->    config: c2.txt
